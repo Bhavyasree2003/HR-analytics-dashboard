@@ -1,7 +1,9 @@
 # HR-analytics-dashboard
+************************
 This repository contains the code for an HR Analytics Dashboard that visualizes various HR metrics for a life sciences company. The dashboard provides insights into employee demographics, attrition, job satisfaction, and other HR metrics.
 
-Features
+# Features
+************
 
 Overall employee count, attrition rate, and active employees.
 Department-wise attrition rates and number of employees by department.
